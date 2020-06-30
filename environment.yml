@@ -1,9 +1,4 @@
 name: jupyter
-channels:
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-  - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
   - attrs=19.3.0=py_0
